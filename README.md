@@ -1,2 +1,4 @@
-# Useful-Mac-Applications
-Useful Applications that I use on my Mac
+
+
+## Browser / testing
+* (Browser ChooserX)[https://bdevapps.com/2016/11/29/browser-chooserx/]
