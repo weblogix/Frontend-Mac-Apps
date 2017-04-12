@@ -1,6 +1,6 @@
 # Useful Mac Applications
 
-List of all the useful applications that i've been using on my Mac. 
+As a frontend UX Engineer, here is a list of Mac applications that I find useful
 
 ## Editors / IDE
 * [Atom](https://atom.io/download/mac) / [Beta release](https://atom.io/download/mac?channel=beta)
